@@ -1,4 +1,3 @@
-https://github.com/JeSvet/VolgaIT-2022
 #include "fairy_tail.hpp"
 
 #include <cstdlib>
